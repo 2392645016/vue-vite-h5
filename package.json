@@ -23,6 +23,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "dayjs": "^1.10.7",
+    "pinia": "^2.0.16",
     "vant": "^3.3.7",
     "vue": "^3.2.26",
     "vue-router": "^4.0.12",
